@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BackDropBottomSheetBehavior">com.duongtung.mapgo.view.BackdropBottomSheetBehavior</string>
+    <string name="BottomSheetBehaviorGoogleMapsLike">com.duongtung.mapgo.view.BottomSheetBehaviorGoogleMapsLike</string>
+    <string name="ScrollAwareFABBehavior">com.duongtung.mapgo.view.ScrollAwareFABBehavior</string>
+    <string name="MergedAppBarLayoutBehavior">com.duongtung.mapgo.view.MergedAppBarLayoutBehavior</string>
+    <string name="ScrollingAppBarLayoutBehavior">com.duongtung.mapgo.view.ScrollingAppBarLayoutBehavior</string>
+</resources>

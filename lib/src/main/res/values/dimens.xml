@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="si_default_text_size">18sp</dimen>
+    <dimen name="si_default_radius_max">24dp</dimen>
+    <dimen name="si_default_radius_min">8dp</dimen>
+    <dimen name="stpi_default_circle_radius">10dp</dimen>
+    <dimen name="stpi_default_circle_stroke_width">4dp</dimen>
+    <dimen name="stpi_default_indicator_radius">4dp</dimen>
+    <dimen name="stpi_default_line_stroke_width">2dp</dimen>
+    <dimen name="stpi_default_line_margin">5dp</dimen>
+
+    <dimen name="stpi_default_text_size">10sp</dimen>
+
+    <dimen name="stpi_default_bottom_indicator_height">3dp</dimen>
+    <dimen name="stpi_default_bottom_indicator_width">50dp</dimen>
+    <dimen name="stpi_default_bottom_indicator_margin_top">10dp</dimen>
+    <dimen name="anchor_point">300dp</dimen>
+    <dimen name="bottom_sheet_peek_height">80dp</dimen>
+</resources>

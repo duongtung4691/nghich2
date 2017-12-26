@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Map Go</string>
+    <string name="action_settings">Settings</string>
+    <string name="fullName"><font size="15">Full Name</font></string>
+    <string name="vdFull"><font size="15">VD. Duong Thanh Tung</font></string>
+    <string name="vdBirthday"><font size="15">VD. 04/06/1991</font></string>
+    <string name="VdCountryside"><font size="15">VD. Viet Nam</font></string>
+    <string name="VdAddress"><font size="15">VD. 11 Cat Linh - Dong Da - Ha Noi</font></string>
+    <string name="birthday"><font size="15">Birth day</font></string>
+    <string name="Countryside"><font size="15">Country</font></string>
+    <string name="address"><font size="15">Address</font></string>
+    <string name="email"><font size="15">Email</font></string>
+    <string name="phone"><font size="15">Phone Number</font></string>
+    <string name="vdEmail"><font size="15">VD. duongthanhtung.461991@gmail.com</font></string>
+    <string name="VdPhone"><font size="15">VD. 0985085631</font></string>
+    <string name="facebook_app_id">1179057282185687</string>
+    <string name="passwork">Password</string>
+    <string name="forgotpasswork">Forgot password</string>
+    <string name="login">Login Map Go</string>
+    <string name="register">Register Account</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="key_binding_default_toolbar_name">Title</string>
+    <string name="BackDropBottomSheetBehavior">com.map.event.view.BackdropBottomSheetBehavior</string>
+    <string name="BottomSheetBehaviorGoogleMapsLike">com.map.event.view.BottomSheetBehaviorGoogleMapsLike</string>
+    <string name="ScrollAwareFABBehavior">com.map.event.view.ScrollAwareFABBehavior</string>
+    <string name="MergedAppBarLayoutBehavior">com.map.event.view.MergedAppBarLayoutBehavior</string>
+    <string name="ScrollingAppBarLayoutBehavior">com.map.event.view.ScrollingAppBarLayoutBehavior</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <declare-styleable name="SpringIndicator">
+
+        <!--tab text color -->
+        <attr name="siTextColor" format="reference"/>
+
+        <!--tab text color which is selected-->
+        <attr name="siSelectedTextColor" format="reference"/>
+
+        <!--tab item bg -->
+        <attr name="siTextBg" format="reference"/>
+
+        <!--tab text size-->
+        <attr name="siTextSize" format="dimension"/>
+
+        <!--indicator bg color-->
+        <attr name="siIndicatorColor" format="reference"/>
+
+        <!--indicator bg colors. should equals your titles count-->
+        <attr name="siIndicatorColors" format="reference"/>
+
+        <!--max indicator radius-->
+        <attr name="siRadiusMax" format="dimension"/>
+
+        <!--min indicator radius when moving-->
+        <attr name="siRadiusMin" format="dimension"/>
+
+    </declare-styleable>
+    <attr name="dotRadius" format="dimension" />
+
+    <declare-styleable name="ViewPagerIndicator">
+        <attr name="android:gravity" />
+        <attr name="dotRadius" />
+        <attr name="dotPadding" format="dimension" />
+        <attr name="selectedDotColor" format="color" />
+        <attr name="unselectedDotColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="IndicatorDotView">
+        <attr name="dotRadius" />
+        <attr name="dotColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="StepperIndicator" tools:ignore="ResourceName">
+        <attr format="integer" name="stpi_stepCount"/>
+        <attr format="integer" name="stpi_animDuration"/>
+
+        <attr format="color" name="stpi_circleColor"/>
+        <attr format="dimension" name="stpi_circleRadius"/>
+        <attr format="dimension" name="stpi_circleStrokeWidth"/>
+
+        <attr format="color" name="stpi_indicatorColor"/>
+        <attr format="dimension" name="stpi_indicatorRadius"/>
+
+        <attr format="color" name="stpi_lineColor"/>
+        <attr format="color" name="stpi_lineDoneColor"/>
+        <attr format="dimension" name="stpi_lineStrokeWidth"/>
+        <attr format="dimension" name="stpi_lineMargin"/>
+
+        <attr format="boolean" name="stpi_showDoneIcon"/>
+        <attr format="boolean" name="stpi_showStepNumberInstead"/>
+
+        <attr format="boolean" name="stpi_useBottomIndicator"/>
+        <attr format="boolean" name="stpi_useBottomIndicatorWithStepColors"/>
+        <attr format="dimension" name="stpi_bottomIndicatorHeight"/>
+        <attr format="dimension" name="stpi_bottomIndicatorWidth"/>
+        <attr format="dimension" name="stpi_bottomIndicatorMarginTop"/>
+        <attr format="reference" name="stpi_iconId"/>
+        <attr format="reference" name="stpi_colorIcon"/>
+        <attr format="reference" name="stpi_stepsCircleColors"/>
+        <attr format="reference" name="stpi_stepsIndicatorColors"/>
+    </declare-styleable>
+
+    <declare-styleable name="EditCheckText" tools:ignore="ResourceName">
+        <attr format="reference" name="editIconDone"/>
+        <attr format="reference" name="editIconError"/>
+    </declare-styleable>
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+    <declare-styleable name="CustomBottomSheetBehavior">
+        <attr name="anchorPoint" format="dimension"/>
+    </declare-styleable>
+</resources>
